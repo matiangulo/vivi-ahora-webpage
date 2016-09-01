@@ -1,0 +1,346 @@
+﻿
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title> vivi </title>
+	
+	<script src="js/jquery-1.11.3.min.js"></script>
+	<script src="js/functions.js"></script>
+	<link rel="stylesheet" type="text/css" href="style.css"/>
+	    	
+<body>
+	
+	<!----------------------------------------------- obra --------------------------------------------------->
+	
+	
+		
+
+	
+	
+	<div id="ventana1" class="ventana">
+		<div id="contenedor">
+			<img style="width: 280;" src="images/obra.png" alt="" id="obra"/>
+			
+			<form id="v1" method="post" action="javascript:void(0);">
+				<input type="email" name="email" id="email1" maxlength="40" placeholder="Escribe tu mail" value="ignaciosanchezvalle@gmail.com" required disabled/>
+				<input type="text" name="face"  id="face1" maxlength="40"  placeholder="Escribe tu Facebook" value="nachosanchezvalle" required disabled/>
+				
+				<button type="submit" id="submit1" disabled><h4>ES</br>mía</h4></button>
+			</form>
+			
+			<div class="referencias">
+				<h4 style="color:#FF8080">Artista</h4>
+				
+				<p>F.Silva</br></br>facebook: María Fernanda Silva</p></br><h4 style="color:#2DC4B8">Obra</h4><p>Sobre algodón blanco</br>Convertible en remera</br>Irrepetible</p></br>				
+				<h4 style="color:#FFD74A">Regalo</h4>
+				<p>Completa los datos</br>y clickea el botón</br>para ganar esta obra</br></br>
+				
+			</div>
+			<img src="images/nuevos colores.png" alt="logo de rombos" id="loguito"> 
+			
+		</div>
+	</div>
+	
+		
+
+	
+	
+	<div id="ventana2" class="ventana">
+		<div id="contenedor">
+			<img style="width: 280;" src="images/obra2.png" alt="" id="obra"/>
+			
+			<form id="v2" method="post" action="javascript:void(0);">
+				<input type="email" name="email" id="email2" maxlength="40" placeholder="Escribe tu mail" value="bitacora13@gmail.com" required disabled/>
+				<input type="text" name="face"  id="face2" maxlength="40"  placeholder="Escribe tu Facebook" value="Fabri Facca" required disabled/>
+				
+				<button type="submit" id="submit2" disabled><h4>ES</br>mía</h4></button>
+			</form>
+			
+			<div class="referencias">
+				<h4 style="color:#FF8080">Artista</h4>
+				
+				<p>Angul</br>facebook: Mati angu</p></br><h4 style="color:#2DC4B8">Obra</h4><p>Acrílico sobre lienzo</br>0,9m x 1,3m</br></p></br>				
+				<h4 style="color:#FFD74A">Regalo</h4>
+				<p>Completa los datos</br>y clickea el botón</br>para ganar esta obra</br></br>
+				
+			</div>
+			<img src="images/nuevos colores.png" alt="logo de rombos" id="loguito"> 
+			
+		</div>
+	</div>
+	
+		
+
+	
+	
+	<div id="ventana3" class="ventana">
+		<div id="contenedor">
+			<img style="width: 280;" src="images/obra3.png" alt="" id="obra"/>
+			
+			<form id="v3" method="post" action="javascript:void(0);">
+				<input type="email" name="email" id="email3" maxlength="40" placeholder="Escribe tu mail" value="joelpisfil@gmail.com" required disabled/>
+				<input type="text" name="face"  id="face3" maxlength="40"  placeholder="Escribe tu Facebook" value="Joel Sanchez" required disabled/>
+				
+				<button type="submit" id="submit3" disabled><h4>ES</br>mía</h4></button>
+			</form>
+			
+			<div class="referencias">
+				<h4 style="color:#FF8080">Artista</h4>
+				
+				<p>Angul</br>facebook: Mati angu</p></br><h4 style="color:#2DC4B8">Obra</h4><p>Acrílico sobre cartón</br>0,7m x 1m</br></p></br>				
+				<h4 style="color:#FFD74A">Regalo</h4>
+				<p>Completa los datos</br>y clickea el botón</br>para ganar esta obra</br></br>
+				
+			</div>
+			<img src="images/nuevos colores.png" alt="logo de rombos" id="loguito"> 
+			
+		</div>
+	</div>
+	
+		
+
+	
+	
+	<div id="ventana4" class="ventana">
+		<div id="contenedor">
+			<img style="width: 280;" src="images/obra4.png" alt="" id="obra"/>
+			
+			<form id="v4" method="post" action="javascript:void(0);">
+				<input type="email" name="email" id="email4" maxlength="40" placeholder="Escribe tu mail" value="guevara.morena@gmail.com" required disabled/>
+				<input type="text" name="face"  id="face4" maxlength="40"  placeholder="Escribe tu Facebook" value="claudia ngl" required disabled/>
+				
+				<button type="submit" id="submit4" disabled><h4>ES</br>mía</h4></button>
+			</form>
+			
+			<div class="referencias">
+				<h4 style="color:#FF8080">Artista</h4>
+				
+				<p>MÓ</br></br>facebook: Mauro Giolitti</p></br><h4 style="color:#2DC4B8">Obra</h4><p>Sobre algodón blanco</br>Convertible en remera</br>Irrepetible</p></br>				
+				<h4 style="color:#FFD74A">Regalo</h4>
+				<p>Completa los datos</br>y clickea el botón</br>para ganar esta obra</br></br>
+				
+			</div>
+			<img src="images/nuevos colores.png" alt="logo de rombos" id="loguito"> 
+			
+		</div>
+	</div>
+	
+		
+
+	
+	
+	<div id="ventana5" class="ventana">
+		<div id="contenedor">
+			<img style="width: 280;" src="images/obra5.png" alt="" id="obra"/>
+			
+			<form id="v5" method="post" action="javascript:void(0);">
+				<input type="email" name="email" id="email5" maxlength="40" placeholder="Escribe tu mail" value="rosaes2001@gmail.com" required disabled/>
+				<input type="text" name="face"  id="face5" maxlength="40"  placeholder="Escribe tu Facebook" value="https://www.facebook.com/rosa.cuadros" required disabled/>
+				
+				<button type="submit" id="submit5" disabled><h4>ES</br>mía</h4></button>
+			</form>
+			
+			<div class="referencias">
+				<h4 style="color:#FF8080">Artista</h4>
+				
+				<p>Angul</br>facebook: Mati angu</p></br><h4 style="color:#2DC4B8">Obra</h4><p>Acrílico sobre lienzo</br>1m x 1,5m</br></p></br>				
+				<h4 style="color:#FFD74A">Regalo</h4>
+				<p>Completa los datos</br>y clickea el botón</br>para ganar esta obra</br></br>
+				
+			</div>
+			<img src="images/nuevos colores.png" alt="logo de rombos" id="loguito"> 
+			
+		</div>
+	</div>
+	
+		
+
+	
+	
+	<div id="ventana6" class="ventana">
+		<div id="contenedor">
+			<img style="width: 280;" src="images/obra6.png" alt="" id="obra"/>
+			
+			<form id="v6" method="post" action="javascript:void(0);">
+				<input type="email" name="email" id="email6" maxlength="40" placeholder="Escribe tu mail" value="maracordoba84@hotmail.com" required disabled/>
+				<input type="text" name="face"  id="face6" maxlength="40"  placeholder="Escribe tu Facebook" value="Mara Córdoba" required disabled/>
+				
+				<button type="submit" id="submit6" disabled><h4>ES</br>mía</h4></button>
+			</form>
+			
+			<div class="referencias">
+				<h4 style="color:#FF8080">Artista</h4>
+				
+				<p>P.M</br>patriciamartinoenlared.blogspot.com</br>facebook: Patricia Martino</p></br><h4 style="color:#2DC4B8">Obra</h4><p>Sobre algodón blanco</br>Convertible en remera</br>Irrepetible</p></br>				
+				<h4 style="color:#FFD74A">Regalo</h4>
+				<p>Completa los datos</br>y clickea el botón</br>para ganar esta obra</br></br>
+				
+			</div>
+			<img src="images/nuevos colores.png" alt="logo de rombos" id="loguito"> 
+			
+		</div>
+	</div>
+	
+		
+
+	
+	
+	<div id="ventana7" class="ventana">
+		<div id="contenedor">
+			<img style="width: 280;" src="images/obra7.png" alt="" id="obra"/>
+			
+			<form id="v7" method="post" action="javascript:void(0);">
+				<input type="email" name="email" id="email7" maxlength="40" placeholder="Escribe tu mail" value="npippino@gmail.com" required disabled/>
+				<input type="text" name="face"  id="face7" maxlength="40"  placeholder="Escribe tu Facebook" value="Nina Pippino" required disabled/>
+				
+				<button type="submit" id="submit7" disabled><h4>ES</br>mía</h4></button>
+			</form>
+			
+			<div class="referencias">
+				<h4 style="color:#FF8080">Artista</h4>
+				
+				<p>Angul</br>facebook: Mati angu</p></br><h4 style="color:#2DC4B8">Obra</h4><p>Acrílico sobre lienzo</br>0,9m x 0,9m</br></p></br>				
+				<h4 style="color:#FFD74A">Regalo</h4>
+				<p>Completa los datos</br>y clickea el botón</br>para ganar esta obra</br></br>
+				
+			</div>
+			<img src="images/nuevos colores.png" alt="logo de rombos" id="loguito"> 
+			
+		</div>
+	</div>
+	
+		
+
+	
+	
+	<div id="ventana8" class="ventana">
+		<div id="contenedor">
+			<img style="width: 280;" src="images/obra8.png" alt="" id="obra"/>
+			
+			<form id="v8" method="post" action="javascript:void(0);">
+				<input type="email" name="email" id="email8" maxlength="40" placeholder="Escribe tu mail" value="jose_barto@hotmail.com" required disabled/>
+				<input type="text" name="face"  id="face8" maxlength="40"  placeholder="Escribe tu Facebook" value="jose ignacio bartolini" required disabled/>
+				
+				<button type="submit" id="submit8" disabled><h4>ES</br>mía</h4></button>
+			</form>
+			
+			<div class="referencias">
+				<h4 style="color:#FF8080">Artista</h4>
+				
+				<p>Angul</br>facebook: Mati angu</p></br><h4 style="color:#2DC4B8">Obra</h4><p>Acrílico sobre cartón</br>0,9m x 1,2m</br></p></br>				
+				<h4 style="color:#FFD74A">Regalo</h4>
+				<p>Completa los datos</br>y clickea el botón</br>para ganar esta obra</br></br>
+				
+			</div>
+			<img src="images/nuevos colores.png" alt="logo de rombos" id="loguito"> 
+			
+		</div>
+	</div>
+	
+		
+
+	
+	
+	<div id="ventana9" class="ventana">
+		<div id="contenedor">
+			<img style="width: 280;" src="images/obra9.png" alt="" id="obra"/>
+			
+			<form id="v9" method="post" action="javascript:void(0);">
+				<input type="email" name="email" id="email9" maxlength="40" placeholder="Escribe tu mail" value="july._20@hotmail.com" required disabled/>
+				<input type="text" name="face"  id="face9" maxlength="40"  placeholder="Escribe tu Facebook" value="Juli Vitali" required disabled/>
+				
+				<button type="submit" id="submit9" disabled><h4>ES</br>mía</h4></button>
+			</form>
+			
+			<div class="referencias">
+				<h4 style="color:#FF8080">Artista</h4>
+				
+				<p>Angul</br>facebook: Mati angu</p></br><h4 style="color:#2DC4B8">Obra</h4><p>Acrílico sobre lienzo</br>0,6m x 1m</br></p></br>				
+				<h4 style="color:#FFD74A">Regalo</h4>
+				<p>Completa los datos</br>y clickea el botón</br>para ganar esta obra</br></br>
+				
+			</div>
+			<img src="images/nuevos colores.png" alt="logo de rombos" id="loguito"> 
+			
+		</div>
+	</div>
+	
+		
+
+	
+	
+	<div id="ventana10" class="ventana">
+		<div id="contenedor">
+			<img style="width: 280;" src="images/obra10.png" alt="" id="obra"/>
+			
+			<form id="v10" method="post" action="javascript:void(0);">
+				<input type="email" name="email" id="email10" maxlength="40" placeholder="Escribe tu mail" value="juli_ger93@hotmail.com" required disabled/>
+				<input type="text" name="face"  id="face10" maxlength="40"  placeholder="Escribe tu Facebook" value="Juli Appiani" required disabled/>
+				
+				<button type="submit" id="submit10" disabled><h4>ES</br>mía</h4></button>
+			</form>
+			
+			<div class="referencias">
+				<h4 style="color:#FF8080">Artista</h4>
+				
+				<p>Angul</br>facebook: Mati angu</p></br><h4 style="color:#2DC4B8">Obra</h4><p>Acrílico sobre lienzo</br>0,9m x 1,4m</br></p></br>				
+				<h4 style="color:#FFD74A">Regalo</h4>
+				<p>Completa los datos</br>y clickea el botón</br>para ganar esta obra</br></br>
+				
+			</div>
+			<img src="images/nuevos colores.png" alt="logo de rombos" id="loguito"> 
+			
+		</div>
+	</div>
+	
+		
+	
+	
+	
+	
+	
+	
+	<div class="caja-padre">
+		<a href="#ventana1" class="button"></a>				
+		
+		<a href="#ventana2" class="button button2"></a>	
+	
+		<a href="#ventana3" class="button button3"></a>		
+		
+		<a href="#ventana4" class="button button4"></a>				
+		
+		<a href="#ventana5" class="button button5"></a>	
+				
+		<a href="#ventana6" class="button button6"></a>
+		
+		<a href="#ventana7" class="button button7"></a>
+	
+		<a href="#ventana8" class="button button8"></a>
+
+		<a href="#ventana9" class="button button9"></a>
+
+		<a href="#ventana10" class="button button10"></a>		
+	</div>
+	
+	<fotter>
+		<p>PUBLICAREMOS EN FACEBOOK<br/><br/>LOS PRÓXIMOS REGALOS<br/></br></br></br></br>
+			<a href="http://www.facebook.com/viviahora10" target="facebook">www.facebook.com/viviahora10</a><br/><br/><br/><p></p>
+			
+		</p>
+	</fotter>
+
+	
+	
+</body>
+
+
+<script>
+	$( document ).ready(function() {
+		initApp();
+	});
+</script>
+
+</html>
+
+
